@@ -82,8 +82,8 @@
   }
   
   button {
-    height: 50px;
-    width: 175px;
+    height: 210px;
+    width: 230px;
     border-radius: var(--radius);
     cursor: pointer;
   }
